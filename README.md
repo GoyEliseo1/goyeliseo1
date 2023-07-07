@@ -1,8 +1,3 @@
-
-<p>
-      <img  height=350 width = 2000 src='https://cdn.pixabay.com/photo/2018/04/20/21/10/code-3337044_960_720.jpg' </img>
-</p>
-
 # Hola soy Eliseo Chiappone
 Hola soy Eliseo un Desarrollador👨‍💻 Web FullStack Dispuesto a nuevos desafíos, 
 desarrollo Aplicaciones Web utilizando los conocimientos que dispongo pero cuando necesito nuevas tecnologias estoy dispuesto a aprendenderlas 🙂 y aumentar mis herramientas.🛠 
