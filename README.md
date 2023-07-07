@@ -17,26 +17,6 @@ desarrollo Aplicaciones Web utilizando los conocimientos que dispongo pero cuand
     <img  height=40 src='https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_logo_icon_146348.png' </img>
     <img  height=40 src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png' </img>
 </p>
-
-
-### Mi Trabajo
-
-### App de Recetas
-<p>
-  Aplicacion en la que podemos encontrar todo tipo de recetas. Buscar por nombre filtrar por tipo de dieta agregar nuevas u obtener mas detalle de estas, pudiendo saber los pasos a seguir para prepararla y una puntuacion de salud.
-  
-  </p>
-  
-</p>
-  <h4>Pagina de Recetas</h4>
-  <img  height=175 src="https://i.ibb.co/xj2bZ4H/Screenshot-7.png" alt="Screenshot-7" border="0">
-  <h4>Detalles de Recetas</h4>
-  <img height=175 src="https://i.ibb.co/BZLCbxr/Screenshot-11.png" alt="Screenshot-11" border="0">
-  <h4>Formulario de Creacion</h4>
-  <img  height=175 src="https://i.ibb.co/7pkZ9C3/Screenshot-10.png" alt="Screenshot-10" border="0">
-</p>
-
- [Link del Proyecto](https://bit.ly/3zXn1ct)
 <!--
 **GoyEliseo1/goyeliseo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
