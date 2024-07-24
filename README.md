@@ -5,9 +5,6 @@ desarrollo Aplicaciones Web utilizando los conocimientos que dispongo pero cuand
 <p>
     <img  height=40 src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png' </img>
     <img  height=40 src='https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png' </img>
-    <img  height=40 src='https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png' </img>
-    <img  height=40 src='https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png' </img>
-    <img  height=40 src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png' </img>
     <img  height=40 src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png' </img>
     <img  height=40 src='https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_logo_icon_146348.png' </img>
     <img  height=40 src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png' </img>
