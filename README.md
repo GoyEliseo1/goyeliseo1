@@ -1,6 +1,6 @@
 # Hola soy Eliseo Chiappone
 Hola soy Eliseo un Desarrollador👨‍💻 Web FullStack Dispuesto a nuevos desafíos, 
-desarrollo Aplicaciones Web utilizando los conocimientos que dispongo pero cuando necesito nuevas tecnologias estoy dispuesto a aprendenderlas 🙂 y aumentar mis herramientas.🛠 
+desarrollo Aplicaciones Web utilizando los conocimientos que dispongo pero cuando necesito nuevas tecnologias estoy dispuesto a aprenderlas 🙂 y aumentar mis herramientas.🛠 
 ## Tecnologias y Herramientas
 <p>
     <img  height=40 src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png' </img>
